@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package fgoeldner.ratehub;
+
+option go_package = "github.com/fgoeldner/ratehub";
+
+message Property {
+
+}
